@@ -9,7 +9,7 @@ Näiteks, kuidas teha päringuid PLANK Planeeringute Andmekogu API-le. Iga näid
 ## Koodinäited
 
 1. **Planeeringu Detailandmete Päring:**
-    - Fail: `planeering_detail.py`
+    - Fail: `planeering_API_detail.py`
     - See näide teeb päringu planeeringu detailandmete saamiseks, kasutades antud API-d. Planeeringu number on seadistatud näiteks 10100008.
 
 2. **[Sinu teise koodinäite pealkiri siia]**
@@ -25,7 +25,7 @@ Näiteks, kuidas teha päringuid PLANK Planeeringute Andmekogu API-le. Iga näid
 1. Klooni see repo oma arvutisse:
 
     ```bash
-    git clone https://github.com/sinu-kasutajanimi/plank-api-naited.git
+    git clone https://github.com/taavip/PLANK.git
     ```
 
 2. Määra vajalikud konfiguratsioonid, näiteks API võti, URL-id jne, vastavalt iga koodinäite kommentaaridele.
@@ -33,7 +33,7 @@ Näiteks, kuidas teha päringuid PLANK Planeeringute Andmekogu API-le. Iga näid
 3. Käivita soovitud koodinäide:
 
     ```bash
-    python planeering_detail.py
+    python planeering_API_detail.py
     ```
 
 ## Eeltingimused
